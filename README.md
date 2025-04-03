@@ -29,18 +29,18 @@ This project is a secondary development of the [original project](https://github
 
 | name                    | support |
 |-------------------------|---------|
-| HaE                     | - [x]   |
-| Knife                   | - [x]   |
-| Logger++                | - [x]   |
-| CaptchaDos              | - [x]   |
-| SessionKey crypt        | - [x]   |
-| Jsonp Hunter            | - [x]   |
-| Captcha-killer-modified | - [x]   |
-| AutoDecoder             | - [x]   |
-| Awesome TLS             | - [x]   |
-| Xia SQL                 | - [x]   |
-| Xia Yue                 | - [x]   |
-| Xia Liao                | - [x]   |
+| HaE                     | ✅      |
+| Knife                   | ✅      |
+| Logger++                | ✅      |
+| CaptchaDos              | ✅      |
+| SessionKey crypt        | ✅      |
+| Jsonp Hunter            | ✅      |
+| Captcha-killer-modified | ✅      |
+| AutoDecoder             | ✅      |
+| Awesome TLS             | ✅      |
+| Xia SQL                 | ✅      |
+| Xia Yue                 | ✅      |
+| Xia Liao                | ✅      |
 
 # More
 
